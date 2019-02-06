@@ -8,7 +8,7 @@ public class MultNums {
 	
 	public static void main(String[] args) {
         // Tests multiply!
-        System.out.println("3 * 4 = " + multiply(3, 4));
+        System.out.println("3 * 4 = " + multiply(3, 3, 4));
     }
 
 }
