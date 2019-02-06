@@ -3,7 +3,7 @@ public class MultNums {
 	
 	public static int multiply(int a, int b)
 	{
-		return error;
+		return a * b;
 	}
 	
 	public static void main(String[] args) {
